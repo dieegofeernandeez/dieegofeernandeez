@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 mi nombre es Diego Fernández Mora
+
+Soy Científico de Datos. Actualmente trabajo como Analista en SDG Group.
 
 <!--
 **dieegofernandezz/dieegofernandezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
